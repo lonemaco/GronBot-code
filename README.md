@@ -1,0 +1,1 @@
+The GronBot is something I made in like 2 hours, the code is very crude and rudimental, not really trying to improve it. Even though it didn't take much time to make I'm still kind of proud since it's the first bot I've created. Feel free to upgrade and use as you like.
